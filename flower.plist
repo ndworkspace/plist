@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nd.famlink</string>
+				<string>com.nd.flower</string>
 				<key>bundle-version</key>
 				<string>2.7.6</string>
 				<key>kind</key>
