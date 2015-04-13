@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://file.hua.99.com:8080/toy/app.ipa</string>
+					<string>http://babylink.99.com:8080/toy/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://file.hua.99.com:8080/toy/icon@2x.png</string>
+					<string>http://babylink.99.com:8080/toy/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://file.hua.99.com:8080/toy/icon.png</string>
+					<string>http://babylink.99.com:8080/toy/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nd.famlink</string>
 				<key>bundle-version</key>
-				<string>1.7.0</string>
+				<string>1.7.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
